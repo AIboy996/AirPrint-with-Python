@@ -12,10 +12,18 @@ You can **send pdf file from Apple devices** to the server via AirPrint protocol
 
 ## How AirPrint-with-Python Works?
 
-### receive printed data in PostScript format
-Package `socketserver` provide a easy to set up a local TCP server.
-### convert `.ps` to `.pdf`
-with `GhostScript`.
+### Step 1
+Add a `virtual TCP printer` in your Operating System by hand:
+
+- [on Windows10/11?](https://sscs.uchicago.edu/add-network-printer-windows10/)
+- on MacOS?
+- on Linux?
+
+### Step 2
+Start a `TCP server` to receive data in PostScript format.
+
+### Step 3
+Convert `.ps` to `.pdf` with **ps2pdf**(usually installed with TeX, such as [MiKTeX](https://miktex.org/)) automaticly.
 
 ## References
 
