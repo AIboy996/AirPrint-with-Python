@@ -22,5 +22,6 @@ with `GhostScript`.
 - [AirPrint Apple Support](https://support.apple.com/en-us/HT201311)
 - [AirPrint Apple Developer](https://developer.apple.com/airprint/)
 - [将Windows 上的打印机共享为AirPrint - Jiaxin's Blog](https://shoujiaxin.github.io/2018/12/02/将-Windows-上的打印机共享为-AirPrint/)
-- [RWTS-PDFwriter](https://github.com/rodyager/RWTS-PDFwriter)
 - [Air Printer - 隔空打印机服务器](https://apps.apple.com/cn/app/air-printer-隔空打印机服务器/id929399895)
+- [RWTS-PDFwriter](https://github.com/rodyager/RWTS-PDFwriter)
+- [AirPdfPrinter](https://github.com/thyrlian/AirPdfPrinter.git)
